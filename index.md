@@ -6,7 +6,9 @@ relative_path: ./
 ---
 
 {% include sort-table-header.html -%}
-
+| Address Space detail page | In Progress | InVision design | Haley & April | 04/25/2019 | | |
+| [Address page] | Version 1 | | |04/25/2019 | | |
+| [Connection page] | Version 1 | | | 04/25/2019 | | |
 | [Design specs for development](https://redhat.invisionapp.com/share/KERIK1IHXQ8) | Ready for Dev | InVision design | Haley & April | 04/12/2019 | | |
 | [Landing page user testing](https://docs.google.com/document/d/1vTzSJpoWszHvSsoBzOVO6rAK726AwZt_D8lpFLbzQ_8/edit?usp=sharing) | UXD Verified | | Haley&April | 03/022/2019 | | |
 | [Responsive design for mobile](https://redhat.invisionapp.com/share/YCRPHKTN4P6) | Ready for Dev | InVision design | April & Haley | 03/14/2019 | | |
